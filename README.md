@@ -6,7 +6,7 @@ A LSPosed/Xposed module for hooking SystemUI Recents.
 - Hook SystemUI Recents with multiple strategies
 - Save recent task info to `/sdcard/RecentsStack/tasks.json`
 - DebugActivity for viewing and exporting logs
-- GitHub Actions auto-build
+- GitHub Actions auto-buildok
 
 ## Usage
 1. Install APK
